@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main ()
+int main () \\тестовый файл
 
 {
 	printf("Hello World");
